@@ -1,0 +1,18 @@
+/* Add application styles & imports to this file! */
+header {
+  background-color: blueviolet;
+}
+.container {
+  background-color: aqua;
+  height: 1050px;
+}
+
+footer {
+  background-color: red;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
